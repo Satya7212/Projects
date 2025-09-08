@@ -1,2 +1,2 @@
 #demo
-this is my repo to build my projects...
+this is repo to build projects
